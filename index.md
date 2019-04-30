@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://github.com/Drazzel/nycanalysis)
+[Link to another page](https://drazzel.github.io/nycanalysis)
 
 DRAZZEL'S WEBSITE
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
