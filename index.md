@@ -6,6 +6,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./geodataexercisepage.html)
 
+[Link to plain](./plain.html)
+
 DRAZZEL'S WEBSITE
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
