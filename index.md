@@ -10,8 +10,10 @@ My policy focuses are in public finance, housing policy, and urban economics and
 
 This site is a portfolio of research ideas and odds & ends. As such, it'll include some visualizations, some data analysis, and generally work that I find interesting. The site may also include some tutorials on programming in R. I like to share what I learn.
 
-[Link to another page](./geodataexercisepage.html)
-
+# Projects
 [Link to plain](./plain.html)
 
-[Link to standalone map](./indexcopy.html)
+[NYC - Median Income & Available Public Housing Units](./nycmap.html)
+
+# How-To's
+[Creating Maps in R Using Leaflet](./geodataexercisepage.html)
