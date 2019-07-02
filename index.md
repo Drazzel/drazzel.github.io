@@ -4,7 +4,7 @@ layout: default
 
 
 
-I'm Drazzel Feliu. I am the Sr. Policy Analyst at the Center for Tax & Budget Accountability. I have a master's degree in public policy (MPP) from the University of Chicago - Harris School of Public Policy and a bachelor's degree in economics (BA) from Fordham University.
+I'm Drazzel Feliu. I am a Research Associate at the Center for Tax & Budget Accountability. I have a master's degree in public policy (MPP) from the University of Chicago - Harris School of Public Policy and a bachelor's degree in economics (BA) from Fordham University.
 
 My policy focuses are in public finance, housing policy, and urban economics and the intersection of all of these areas with race.
 
